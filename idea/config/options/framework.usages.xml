@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="FrameworkUsages">
+    <project id="archiva" frameworks="archiva-webapp" />
+    <project id="maven-archetype" frameworks="archetype-proxy,archetype-repository" />
+    <project id="simple-webapp" frameworks="simple-webapp" />
+    <project id="a2m-parent" frameworks="" />
+  </component>
+</application>
+

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="libraries">
+      <project id="dubbo-parent" values="spring" />
+      <project id="hsfunit" values="spring" />
+      <project id="dubbo.parent" values="spring" />
+      <project id="sofa.parent" values="spring" />
+      <project id="dubbo-rpc-hsf" values="spring" />
+      <project id="hsf-all" values="spring,groovy" />
+      <project id="a2m-parent" values="spring,groovy" />
+    </group>
+    <group name="language-level">
+      <project id="hsfunit" values="5.0 - 'enum' keyword, etc., autoboxing" />
+      <project id="dubbo.parent" values=" etc., autoboxing,5.0 - 'enum' keyword" />
+      <project id="libthrift" values=" autoboxing, etc.,5.0 - 'enum' keyword" />
+      <project id="maven" values=" autoboxing, etc.,5.0 - 'enum' keyword" />
+      <project id="sofa.parent" values=" autoboxing, etc.,5.0 - 'enum' keyword" />
+      <project id="maven-dubbo-plugin" values=" etc., autoboxing,5.0 - 'enum' keyword" />
+      <project id="hsf-all" values=" autoboxing, etc.,5.0 - 'enum' keyword" />
+      <project id="dubbo-parent" values="5.0 - 'enum' keyword, autoboxing, etc." />
+      <project id="maven-wagon-plugin" values=" autoboxing, etc.,5.0 - 'enum' keyword" />
+      <project id="dubbo-rpc-hsf" values="5.0 - 'enum' keyword, autoboxing, etc." />
+      <project id="plexus-classworlds" values=" autoboxing,5.0 - 'enum' keyword, etc." />
+      <project id="maven-plugin-tools" values="5.0 - 'enum' keyword, autoboxing, etc." />
+      <project id="pampas.rules.caclist" values=" autoboxing,5.0 - 'enum' keyword, etc." />
+      <project id="a2m-parent" values="5.0 - 'enum' keyword, etc., autoboxing" />
+    </group>
+    <group name="vcs">
+      <project id="dubbo-parent" values="Git" />
+      <project id="hsfunit" values="svn" />
+      <project id="libthrift" values="svn" />
+      <project id="dubbo.parent" values="svn" />
+      <project id="sofa.parent" values="svn" />
+      <project id="maven" values="svn" />
+      <project id="maven-wagon-plugin" values="svn" />
+      <project id="maven-dubbo-plugin" values="svn" />
+      <project id="hsf-all" values="svn" />
+      <project id="pampas.rules.caclist" values="svn" />
+      <project id="maven-plugin-tools" values="svn" />
+      <project id="a2m-parent" values="svn" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="dubbo-parent" values="Remote" />
+      <project id="dubbo.parent" values="Remote" />
+      <project id="maven" values="Remote" />
+      <project id="maven-wagon-plugin" values="Remote" />
+      <project id="hsf-all" values="Remote" />
+      <project id="a2m-parent" values="Remote" />
+    </group>
+    <group name="module type">
+      <project id="hsfunit" values="JAVA_MODULE" />
+      <project id="dubbo.parent" values="JAVA_MODULE" />
+      <project id="libthrift" values="JAVA_MODULE" />
+      <project id="maven" values="JAVA_MODULE" />
+      <project id="sofa.parent" values="JAVA_MODULE" />
+      <project id="maven-dubbo-plugin" values="JAVA_MODULE" />
+      <project id="hsf-all" values="JAVA_MODULE" />
+      <project id="dubbo-parent" values="JAVA_MODULE" />
+      <project id="maven-wagon-plugin" values="JAVA_MODULE" />
+      <project id="dubbo-rpc-hsf" values="JAVA_MODULE" />
+      <project id="plexus-classworlds" values="JAVA_MODULE" />
+      <project id="maven-plugin-tools" values="JAVA_MODULE" />
+      <project id="pampas.rules.caclist" values="JAVA_MODULE" />
+      <project id="a2m-parent" values="JAVA_MODULE" />
+    </group>
+    <group name="file-type">
+      <project id="hsfunit" values="UNKNOWN,JAVA,IDEA_MODULE,Manifest,IDEA_PROJECT,XML,IDEA_WORKSPACE" />
+      <project id="dubbo.parent" values="ARCHIVE,UNKNOWN,XML,Properties,IDEA_WORKSPACE,IDEA_MODULE,IDEA_PROJECT,JAVA,PLAIN_TEXT,CLASS" />
+      <project id="libthrift" values="JAVA,CLASS,PLAIN_TEXT,UNKNOWN,XML,IDEA_MODULE,Properties,IDEA_WORKSPACE,IDEA_PROJECT,ARCHIVE" />
+      <project id="maven" values="IDEA_WORKSPACE,PLAIN_TEXT,IDEA_PROJECT,Properties,XML,UNKNOWN,ARCHIVE,JAVA,IDEA_MODULE" />
+      <project id="sofa.parent" values="Properties,IDEA_MODULE,UNKNOWN,IDEA_PROJECT,IDEA_WORKSPACE,JAVA,XML,PLAIN_TEXT,ARCHIVE" />
+      <project id="maven-dubbo-plugin" values="XML,IDEA_MODULE,IDEA_PROJECT,JAVA,UNKNOWN,IDEA_WORKSPACE" />
+      <project id="hsf-all" values="UNKNOWN,XML,JAVA,IDEA_WORKSPACE,PLAIN_TEXT,Groovy,ARCHIVE,Properties,IDEA_PROJECT,IDEA_MODULE,Manifest" />
+      <project id="dubbo-parent" values="IDEA_WORKSPACE,Properties,UNKNOWN,JAVA,XML,IDEA_MODULE,IDEA_PROJECT,PLAIN_TEXT" />
+      <project id="maven-wagon-plugin" values="IDEA_MODULE,XML,UNKNOWN,IDEA_WORKSPACE,JAVA,IDEA_PROJECT,ARCHIVE" />
+      <project id="dubbo-rpc-hsf" values="XML,IDEA_PROJECT,JAVA,IDEA_WORKSPACE,UNKNOWN,IDEA_MODULE" />
+      <project id="plexus-classworlds" values="ARCHIVE,UNKNOWN,AspectJ,IDEA_WORKSPACE,XML,Properties,IDEA_MODULE,IDEA_PROJECT,PLAIN_TEXT,JAVA" />
+      <project id="maven-plugin-tools" values="Groovy,ARCHIVE,IDEA_WORKSPACE,HTML,XML,Properties,Images,UNKNOWN,VTL,IDEA_PROJECT,JAVA,IDEA_MODULE,PLAIN_TEXT" />
+      <project id="pampas.rules.caclist" values="IDEA_MODULE,IDEA_PROJECT,UNKNOWN,JAVA,IDEA_WORKSPACE,XML,Properties" />
+      <project id="a2m-parent" values="IDEA_WORKSPACE,UNKNOWN,XML,VTL,Native,JAVA,PLAIN_TEXT,Groovy,HTML,IDEA_MODULE,IDEA_PROJECT,Properties,ARCHIVE" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="dubbo-parent" values="JUnit" />
+      <project id="dubbo.parent" values="JUnit" />
+      <project id="maven" values="Application" />
+      <project id="sofa.parent" values="Application" />
+      <project id="dubbo-rpc-hsf" values="JUnit" />
+      <project id="hsf-all" values="Application" />
+      <project id="a2m-parent" values="Application" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.Application.Debug" count="24" />
+      <entry feature="execute.Application.Run" count="37" />
+      <entry feature="execute.JUnit.Coverage" count="4" />
+      <entry feature="execute.JUnit.Debug" count="17" />
+      <entry feature="execute.JUnit.Run" count="52" />
+      <entry feature="execute.Remote.Debug" count="17" />
+    </counts>
+  </component>
+</application>
+

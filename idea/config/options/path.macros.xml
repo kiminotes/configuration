@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="M2_REPO" value="/home/kimi/.m2/repository" />
+    <macro name="MAVEN_REPOSITORY" value="/home/kimi/.m2/repository" />
+  </component>
+</application>
+

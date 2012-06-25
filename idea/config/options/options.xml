@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="DimensionService">
+    <location key="#com.intellij.ide.util.FileStructureDialog.0.0.1366.768" x="2" y="57" />
+    <location key="#FindBugs-IDEA.0.0.1366.768" x="0" y="0" />
+    <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.0.1366.768" x="436" y="19" />
+    <location key="chooseDestDirectoryDialog.0.0.1280.800" x="437" y="205" />
+    <location key="VCS.ChangelistChooser.0.0.1366.768" x="634" y="224" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" x="397" y="165" />
+    <location key="MultipleFileMergeDialog.0.0.1366.768" x="375" y="125" />
+    <location key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog.0.0.1366.768" x="476" y="254" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1024.768" x="325" y="94" />
+    <location key="GridCell.Tab.0.left.0.0.1366.768" x="57" y="525" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1366.768" x="386" y="205" />
+    <location key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialogFactory.BreakpointsConfigurationDialog.AddFieldBreakpointDialog.0.0.1280.800" x="688" y="333" />
+    <location key="#Plugins" x="354" y="40" />
+    <location key="DiffWindow.0.0.1024.768" x="0" y="25" />
+    <location key="#com.intellij.debugger.ui.impl.InspectDialog.0.0.1366.768" x="662" y="198" />
+    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1280.800" x="-4" y="25" />
+    <location key="EditParametersPopupWindow.0.0.1366.768" x="359" y="263" />
+    <location key="#Inspections.0.0.1366.768" x="320" y="76" />
+    <location key="ProcessPopupWindow" x="418" y="196" />
+    <location key="RollbackChangesDialog.0.0.1366.768" x="365" y="129" />
+    <location key="#com.intellij.structuralsearch.plugin.replace.ui.ReplaceDialog.0.0.1366.768" x="-6" y="82" />
+    <location key="#com.intellij.codeInsight.template.impl.EditTemplateDialog.0.0.1280.800" x="409" y="104" />
+    <location key="#Notifications.0.0.1366.768" x="439" y="120" />
+    <location key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" x="88" y="109" />
+    <location key="#com.intellij.debugger.ui.EvaluationDialog2.0.0.1366.768" x="-6" y="43" />
+    <location key="#com.intellij.debugger.ui.ExportDialog.0.0.1366.768" x="364" y="177" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1280.800" x="88" y="139" />
+    <location key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialog.0.0.1024.768" x="200" y="91" />
+    <location key="NewModule_or_Project.wizard" x="183" y="69" />
+    <location key="#com.intellij.debugger.ui.EvaluationDialog2.0.0.1024.768" x="78" y="155" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog" x="100" y="125" />
+    <location key="svn.sslDialog.0.0.1280.800" x="399" y="298" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="-6" y="29" />
+    <location key="#com.intellij.ide.util.FileStructureDialog.0.0.1280.800" x="0" y="25" />
+    <location key="#Updates.0.0.1366.768" x="306" y="283" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1280.800" x="442" y="312" />
+    <location key="#com.intellij.debugger.ui.impl.InspectDialog.0.0.1280.800" x="245" y="132" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog.0.0.1280.800" x="381" y="193" />
+    <location key="findTextDialog.0.0.1366.768" x="144" y="106" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1280.800" x="396" y="255" />
+    <location key="#Project_Structure.0.0.1366.768" x="-6" y="19" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1024.768" x="249" y="142" />
+    <location key="#Configure_Path_Variables.0.0.1366.768" x="397" y="96" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog.0.0.1366.768" x="412" y="162" />
+    <location key="DiffWindow.0.0.1366.768" x="54" y="71" />
+    <location key="DiffWindow" x="52" y="63" />
+    <location key="findTextDialog.0.0.1280.800" x="82" y="134" />
+    <location key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog.0.0.1366.768" x="100" y="125" />
+    <location key="NewModule_or_Project.wizard.0.0.1366.768" x="230" y="52" />
+    <location key="FileChooserDialogImpl.0.0.1280.800" x="54" y="49" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1366.768" x="216" y="300" />
+    <location key="svn.passwordDialog.0.0.1366.768" x="429" y="289" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1366.768" x="354" y="165" />
+    <location key="svn.passwordDialog.0.0.1280.800" x="386" y="304" />
+    <location key="AbstractVcsHelper.FilterDialog.org.jetbrains.idea.svn.history.SvnVersionFilterComponent.0.0.1366.768" x="524" y="245" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1280.800" x="367" y="204" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="193" y="19" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1024.768" x="100" y="41" />
+    <location key="#Project_Structure.0.0.1280.800" x="116" y="25" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1280.800" x="456" y="108" />
+    <location key="#Jetty_Server.0.0.1280.800" x="335" y="109" />
+    <location key="chooseDestDirectoryDialog.0.0.1366.768" x="480" y="179" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1280.800" x="507" y="270" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages.0.0.1366.768" x="294" y="273" />
+    <location key="NewModule_or_Project.wizard.0.0.1280.800" x="207" y="78" />
+    <location key="NotificationsPopup" x="207" y="231" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1280.800" x="271" y="67" />
+    <location key="replaceTextDialog.0.0.1280.800" x="729" y="194" />
+    <location key="#com.intellij.debugger.ui.breakpoints.EditClassFiltersDialog.0.0.1280.800" x="247" y="212" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1366.768" x="357" y="97" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1280.800" x="368" y="158" />
+    <location key="OptionsEditor.0.0.1366.768" x="-6" y="19" />
+    <location key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialogFactory.BreakpointsConfigurationDialog.AddFieldBreakpointDialog.0.0.1366.768" x="613" y="268" />
+    <location key="#com.intellij.debugger.ui.EvaluationDialog2.0.0.1280.800" x="182" y="295" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="110" y="19" />
+    <location key="DiffWindow.0.0.1280.800" x="0" y="25" />
+    <location key="extract.method.dialog.0.0.1366.768" x="564" y="192" />
+    <location key="CommitChangelistDialog.0.0.1280.800" x="139" y="112" />
+    <location key="FileChooserDialogImpl" x="389" y="71" />
+    <location key="scopes.0.0.1366.768" x="241" y="19" />
+    <location key="#com.intellij.codeInsight.template.impl.EditTemplateDialog.0.0.1366.768" x="262" y="77" />
+    <location key="RollbackChangesDialog.0.0.1024.768" x="300" y="128" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.0.0.1366.768" x="272" y="132" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1280.800" x="370" y="262" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1366.768" x="433" y="233" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1366.768" x="400" y="25" />
+    <location key="CommitChangelistDialog.0.0.1024.768" x="68" y="114" />
+    <location key="IdeErrosDialog.0.0.1366.768" x="270" y="194" />
+    <location key="DetectedSourceRootsDialog.0.0.1280.800" x="402" y="109" />
+    <location key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.1280.800" x="281" y="72" />
+    <location key="CommitChangelistDialog.0.0.1366.768" x="-6" y="31" />
+    <location key="RollbackChangesDialog.0.0.1280.800" x="431" y="142" />
+    <location key="#Browse_Repositories.0.0.1366.768" x="261" y="33" />
+    <location key="OptionsEditor" x="54" y="25" />
+    <location key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialog.0.0.1280.800" x="193" y="38" />
+    <location key="FileChooserDialogImpl.0.0.1024.768" x="300" y="113" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1280.800" x="381" y="155" />
+    <location key="#Tomcat_Server.0.0.1280.800" x="447" y="323" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryTableEditor.MyDialogWrapper.0.0.1280.800" x="369" y="149" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1366.768" x="211" y="28" />
+    <location key="#Tomcat_Server.0.0.1366.768" x="374" y="310" />
+    <location key="OptionsEditor.0.0.1280.800" x="62" y="25" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1366.768" x="82" y="19" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1280.800" x="276" y="193" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.0.0.1280.800" x="360" y="143" />
+    <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.0.1280.800" x="226" y="107" />
+    <location key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialog.0.0.1366.768" x="476" y="66" />
+    <location key="#File_Encodings.0.0.1280.800" x="370" y="165" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1280.800" x="286" y="119" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1366.768" x="485" y="228" />
+    <location key="#ThriftCodecTest.testEncodeExceptionResponse.0.0.1366.768" x="326" y="25" />
+    <location key="#com.intellij.refactoring.memberPullUp.PullUpDialog.0.0.1366.768" x="373" y="167" />
+    <size key="javadoc.popup.0.0.1024.768" width="767" height="329" />
+    <size key="#com.intellij.ide.util.FileStructureDialog.0.0.1366.768" width="1350" height="662" />
+    <size key="#com.intellij.debugger.ui.StatementEvaluationDialog.StatementEditor.0.0.1280.800" width="971" height="128" />
+    <size key="#Project_Structure.0.0.1280.800" width="1048" height="750" />
+    <size key="#com.intellij.ide.util.MemberChooser.0.0.1280.800" width="368" height="584" />
+    <size key="#Jetty_Server.0.0.1280.800" width="632" height="581" />
+    <size key="javadoc.popup.0.0.1366.768" width="993" height="278" />
+    <size key="#FindBugs-IDEA.0.0.1366.768" width="1374" height="721" />
+    <size key="DebuggerActiveHint.0.0.1366.768" width="1292" height="520" />
+    <size key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.0.1366.768" width="548" height="718" />
+    <size key="DebuggerActiveHint.0.0.1024.768" width="764" height="367" />
+    <size key="NotificationsPopup" width="873" height="366" />
+    <size key="ShowImplementationPopup.0.0.1366.768" width="602" height="420" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1280.800" width="916" height="689" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" width="922" height="389" />
+    <size key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1280.800" width="590" height="484" />
+    <size key="MultipleFileMergeDialog.0.0.1366.768" width="613" height="517" />
+    <size key="OptionsEditor.0.0.1366.768" width="1358" height="755" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1279" height="167" />
+    <size key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1366.768" width="560" height="295" />
+    <size key="#com.intellij.debugger.ui.EvaluationDialog2.0.0.1280.800" width="995" height="455" />
+    <size key="DiffWindow.0.0.1024.768" width="1024" height="718" />
+    <size key="FileChooserDialogImpl.0.0.1366.768" width="697" height="544" />
+    <size key="DiffWindow.0.0.1280.800" width="1280" height="750" />
+    <size key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1280.800" width="1288" height="753" />
+    <size key="CommitChangelistDialog.0.0.1280.800" width="782" height="525" />
+    <size key="FileChooserDialogImpl" width="697" height="546" />
+    <size key="javadoc.popup.0.0.1280.800" width="856" height="294" />
+    <size key="ProcessPopupWindow" width="409" height="186" />
+    <size key="refactoring.ChangeSignatureDialog.0.0.1366.768" width="563" height="718" />
+    <size key="RollbackChangesDialog.0.0.1366.768" width="616" height="518" />
+    <size key="CommitChangelistDialog.0.0.1024.768" width="788" height="521" />
+    <size key="CommitChangelistDialog.0.0.1366.768" width="1366" height="718" />
+    <size key="#com.intellij.debugger.ui.StatementEvaluationDialog.EvaluationPanel.0.0.1280.800" width="971" height="196" />
+    <size key="RollbackChangesDialog.0.0.1280.800" width="418" height="515" />
+    <size key="#Notifications.0.0.1366.768" width="484" height="525" />
+    <size key="OptionsEditor" width="1218" height="718" />
+    <size key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialog.0.0.1280.800" width="969" height="659" />
+    <size key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" width="1164" height="518" />
+    <size key="#com.intellij.debugger.ui.EvaluationDialog2.0.0.1366.768" width="1358" height="690" />
+    <size key="VCS.ChangeListViewerDialog.0.0.1280.800" width="1101" height="521" />
+    <size key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialog.0.0.1024.768" width="804" height="620" />
+    <size key="NewModule_or_Project.wizard" width="903" height="643" />
+    <size key="#com.intellij.debugger.ui.EvaluationDialog2.0.0.1024.768" width="865" height="455" />
+    <size key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1280.800" width="518" height="489" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog" width="1080" height="550" />
+    <size key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" width="1366" height="718" />
+    <size key="#com.intellij.ide.util.FileStructureDialog.0.0.1280.800" width="1280" height="750" />
+    <size key="#com.intellij.debugger.ui.impl.InspectDialog.0.0.1280.800" width="786" height="531" />
+    <size key="findTextDialog.0.0.1366.768" width="1005" height="484" />
+    <size key="#Project_Structure.0.0.1366.768" width="1103" height="755" />
+    <size key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1024.768" width="524" height="485" />
+    <size key="OptionsEditor.0.0.1280.800" width="1218" height="746" />
+    <size key="DiffWindow.0.0.1366.768" width="1178" height="555" />
+    <size key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1366.768" width="524" height="485" />
+    <size key="findTextDialog.0.0.1280.800" width="729" height="441" />
+    <size key="DiffWindow" width="1178" height="555" />
+    <size key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog.0.0.1366.768" width="1164" height="518" />
+    <size key="FileChooserDialogImpl.0.0.1280.800" width="470" height="546" />
+    <size key="svn.passwordDialog.0.0.1366.768" width="535" height="185" />
+    <size key="#ThriftCodecTest.testEncodeExceptionResponse.0.0.1366.768" width="712" height="718" />
+    <size key="DebuggerActiveHint.0.0.1280.800" width="1215" height="753" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.1280.800" width="569" height="387" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" width="920" height="690" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
+    <extendedState key="CommittedChanges.SplitterProportions.0" state="700" />
+    <extendedState key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" state="700" />
+    <extendedState key="DiffWindow" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
+    <extendedState key="CommittedChanges.SplitterProportions.1" state="500" />
+  </component>
+  <component name="LafManager">
+    <laf class-name="idea.laf.classname" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileStructure.narrowDown" value="false" />
+    <property name="KEEP_PRODUCTIVITY_HINTS" value="false" />
+    <property name="AppServerDKsEditor.splitterProportion" value="0.3" />
+    <property name="junit_statistics_table_columnsWidth5" value="75" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="file.colors.enable.non.project" value="ffffe4" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.27383366" />
+    <property name="project.jdk.splitter" value="0.2" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="junit_statistics_table_columnsWidth4" value="75" />
+    <property name="junit_statistics_table_columnsWidth3" value="75" />
+    <property name="TestNG.Splitter.Proportion" value="0.31475666" />
+    <property name="junit_statistics_table_columnsWidth2" value="75" />
+    <property name="junit_statistics_table_columnsWidth1" value="75" />
+    <property name="junit_statistics_table_columnsWidth0" value="75" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="File Header" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_" value="0.6778761" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="filter_non_existing" value="false" />
+    <property name="installation.uid" value="93083bf6-fc2f-4b93-a6bc-5ef14ba6afcb" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="export.settings.path" value="$USER_HOME$/idea-settings.jar" />
+    <property name="file.colors.enable.tests" value="e7fadb" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION" value="0.5" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="Tests" value="Green" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_OPTION_" value="0.8448845" />
+    <property name="runConfigurationTab.dividerProportion" value="0.2" />
+    <property name="create.project.preffered.importer" value="Eclipse" />
+    <property name="FileTemplates.CurrentTab" value="Java EE" />
+    <property name="RunConfigurable.dividerProportion" value="0.3" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="default.storage.format" value=".ipr (file based)" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MoveFile.RECENT_KEYS" value="$USER_HOME$/work/platform/dubbo-trunk/dubbo.rpc.http/src/main/resources/META-INF/services&#10;/home/kimi/work/platform/dubbo-2.2.0/dubbo-test/dubbo-test-benchmark/src/main/resources&#10;/home/kimi/work/platform/dubbo-2.2.0-codec/dubbo-test/dubbo-test-benchmark/src/main/resources&#10;/home/kimi/work/platform/hsf-trunk/hsf.dubbo/src/main/resources/META-INF/dubbo/&#10;/home/kimi/work/open/dubbo/dubbo-examples/src/main/java/com/alibaba/dubbo/examples/injvm/now" />
+    <property name="JUnitSupport.showStatistics" value="false" />
+    <property name="junit_statistics_table_columnsOrder4" value="4" />
+    <property name="junit_statistics_table_columnsOrder3" value="3" />
+    <property name="Non-Project Files" value="Yellow" />
+    <property name="junit_statistics_table_columnsOrder2" value="2" />
+    <property name="junit_statistics_table_columnsOrder1" value="1" />
+    <property name="junit_statistics_table_columnsOrder0" value="0" />
+    <property name="eclipse.project.dir" value="$USER_HOME$/tmp/uicconsumer" />
+    <property name="JUnitSupport.trackCodeCoverage" value="false" />
+    <property name="test_tree_console_proprtion" value="0.2" />
+    <property name="junit_statistics_table_columnsOrder5" value="5" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="ColorChooser.RecentColors" value="128-12-99-255,,,196-9-181-255,,,234-5-255-255,,,254-8-255-255" />
+  </component>
+</application>
+

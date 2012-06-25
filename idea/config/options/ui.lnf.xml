@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="UISettings">
+    <option name="FONT_FACE" value="SansSerif.plain" />
+    <option name="EDITOR_TAB_LIMIT" value="15" />
+    <option name="MAX_LOOKUP_WIDTH" value="402" />
+  </component>
+</application>
+

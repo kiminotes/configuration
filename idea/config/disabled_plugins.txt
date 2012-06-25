@@ -1,0 +1,15 @@
+StrutsAssistant
+com.intellij.hibernate
+com.intellij.seam.pageflow
+com.intellij.gwt
+com.intellij.appengine
+J2ME
+Glassfish
+Weblogic
+com.intellij.seam.pages
+Geronimo
+ClearcasePlugin
+com.intellij.struts2
+com.jetbrains.plugins.asp
+SourceSafe
+com.intellij.seam

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="PluginManagerConfigurable" proportions="0.5" version="1">
+    <option name="AVAILABLE_SORT_MODE" value="0" />
+    <option name="AVAILABLE_SORT_BY_STATUS" value="false" />
+    <option name="myOutdatedPlugins">
+      <value>
+        <list size="2">
+          <item index="0" class="java.lang.String" itemvalue="BackgroundImage" />
+          <item index="1" class="java.lang.String" itemvalue="EclipseCodeFormatter" />
+        </list>
+      </value>
+    </option>
+    <option name="myInstalledPlugins">
+      <value>
+        <list size="13">
+          <item index="0" class="java.lang.String" itemvalue="com.intellij.aspectj" />
+          <item index="1" class="java.lang.String" itemvalue="org.intellij.scala" />
+          <item index="2" class="java.lang.String" itemvalue="GenerateToString" />
+          <item index="3" class="java.lang.String" itemvalue="EclipseCodeFormatter" />
+          <item index="4" class="java.lang.String" itemvalue="com.intellij.dmserver" />
+          <item index="5" class="java.lang.String" itemvalue="com.intellij.appengine" />
+          <item index="6" class="java.lang.String" itemvalue="GuiceyIDEA" />
+          <item index="7" class="java.lang.String" itemvalue="Osmorc" />
+          <item index="8" class="java.lang.String" itemvalue="Resin" />
+          <item index="9" class="java.lang.String" itemvalue="TabSwitch" />
+          <item index="10" class="java.lang.String" itemvalue="FindBugs-IDEA" />
+          <item index="11" class="java.lang.String" itemvalue="XSLT-Debugger" />
+          <item index="12" class="java.lang.String" itemvalue="BackgroundImage" />
+        </list>
+      </value>
+    </option>
+    <available-proportions proportions="0.5" version="1" />
+  </component>
+</application>
+

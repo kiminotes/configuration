@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>Inspections</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="AppserversManager">
+    <LibraryTable>
+      <library name="Tomcat 6">
+        <CLASSES>
+          <root url="jar:///opt/apache-tomcat-6.0.33/lib/tomcat-i18n-fr.jar!/" />
+          <root url="jar:///opt/apache-tomcat-6.0.33/lib/ecj-3.3.1.jar!/" />
+          <root url="jar:///opt/apache-tomcat-6.0.33/lib/jasper-el.jar!/" />
+          <root url="jar:///opt/apache-tomcat-6.0.33/lib/catalina-ha.jar!/" />
+          <root url="jar:///opt/apache-tomcat-6.0.33/lib/servlet-api.jar!/" />
+          <root url="jar:///opt/apache-tomcat-6.0.33/lib/catalina-ant.jar!/" />
+          <root url="jar:///opt/apache-tomcat-6.0.33/lib/jsp-api.jar!/" />
+          <root url="jar:///opt/apache-tomcat-6.0.33/lib/catalina.jar!/" />
+          <root url="jar:///opt/apache-tomcat-6.0.33/lib/catalina-tribes.jar!/" />
+          <root url="jar:///opt/apache-tomcat-6.0.33/lib/tomcat-dbcp.jar!/" />
+          <root url="jar:///opt/apache-tomcat-6.0.33/lib/tomcat-coyote.jar!/" />
+          <root url="jar:///opt/apache-tomcat-6.0.33/lib/jasper.jar!/" />
+          <root url="jar:///opt/apache-tomcat-6.0.33/lib/annotations-api.jar!/" />
+          <root url="jar:///opt/apache-tomcat-6.0.33/lib/tomcat-i18n-ja.jar!/" />
+          <root url="jar:///opt/apache-tomcat-6.0.33/lib/el-api.jar!/" />
+          <root url="jar:///opt/apache-tomcat-6.0.33/lib/tomcat-i18n-es.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </LibraryTable>
+    <ServerDK NAME="Tomcat 6">
+      <option name="SOURCE_INTEGRATION_NAME" value="Tomcat Server" />
+      <DATA>
+        <option name="CATALINA_HOME" value="/opt/apache-tomcat-6.0.33" />
+        <option name="CATALINA_BASE" value="" />
+        <option name="VERSION" value="6.0" />
+      </DATA>
+    </ServerDK>
+  </component>
+  <component name="BackgroundImageConfiguration">
+    <option name="filename" value="$USER_HOME$/documents/pictures/snow-leopard.jpg" />
+    <option name="localFile" value="true" />
+    <option name="enabled" value="true" />
+    <option name="visibility" value="0.2" />
+    <option name="stretched" value="true" />
+  </component>
+  <component name="BaseRefactoringSettings">
+    <option name="SAFE_DELETE_WHEN_DELETE" value="false" />
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="alibaba" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="EXT_CONFIGURATION">
+      <value>
+        <option name="CVS_RSH" value="ssh" />
+        <option name="PRIVATE_KEY_FILE" value="" />
+        <option name="ADDITIONAL_PARAMETERS" value="" />
+        <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
+      </value>
+    </option>
+    <option name="SSH_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+        <option name="PORT" value="" />
+      </value>
+    </option>
+    <option name="LOCAL_CONFIGURATION">
+      <value>
+        <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+        <option name="SERVER_COMMAND" value="server" />
+      </value>
+    </option>
+    <option name="PROXY_SETTINGS">
+      <value>
+        <option name="USE_PROXY" value="false" />
+        <option name="PROXY_HOST" value="" />
+        <option name="PROXY_PORT" value="1234" />
+        <option name="TYPE" value="0" />
+        <option name="LOGIN" value="" />
+        <option name="PASSWORD" value="" />
+      </value>
+    </option>
+    <option name="SSH_FOR_EXT_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+        <option name="PORT" value="" />
+      </value>
+    </option>
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+    <option name="TIMEOUT" value="60" />
+    <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
+    <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
+    <option name="CHECKOUT_KEYWORD_SUBSTITUTION" />
+    <option name="SHOW_RESTORE_DIRECTORIES_CONFIRMATION" value="true" />
+    <option name="ENCODING" value="Default" />
+    <option name="USE_GZIP" value="false" />
+    <option name="DO_OUTPUT" value="false" />
+    <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
+  </component>
+  <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="true" />
+    <option name="VALUE_LOOKUP_DELAY" value="700" />
+    <option name="DEBUGGER_TRANSPORT" value="0" />
+    <option name="FORCE_CLASSIC_VM" value="true" />
+    <option name="DISABLE_JIT" value="true" />
+    <option name="HIDE_DEBUGGER_ON_PROCESS_TERMINATION" value="false" />
+    <option name="HOTSWAP_IN_BACKGROUND" value="true" />
+    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_CONSTRUCTORS" value="false" />
+    <option name="SKIP_GETTERS" value="false" />
+    <option name="SKIP_CLASSLOADERS" value="true" />
+    <option name="EVALUATION_DIALOG_TYPE" value="EvaluateExpression" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapNever" />
+    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
+    <option name="HOTSWAP_HANG_WARNING_ENABLED" value="true" />
+    <option name="WATCH_RETURN_VALUES" value="false" />
+    <option name="AUTO_VARIABLES_MODE" value="false" />
+    <option name="SHOW_LIBRARY_STACKFRAMES" value="true" />
+    <filter>
+      <option name="PATTERN" value="com.sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="java.*" />
+      <option name="ENABLED" value="false" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javax.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.omg.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="junit.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.intellij.rt.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.yourkit.runtime.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+  </component>
+  <component name="Error Report Configurable">
+    <option name="JIRA_LOGIN" value="" />
+    <option name="JIRA_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_JIRA_PASSWORD" value="false" />
+  </component>
+  <component name="FindSettings">
+    <option name="SEARCH_OVERLOADED_METHODS" value="false" />
+    <option name="SEARCH_IN_LIBRARIES" value="false" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="false" />
+    <option name="FIND_DIRECTION" value="forward" />
+    <option name="FIND_ORIGIN" value="from_cursor" />
+    <option name="FIND_SCOPE" value="global" />
+    <option name="FIND_CUSTOM_SCOPE" />
+    <option name="CASE_SENSITIVE_SEARCH" value="false" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="false" />
+    <option name="PRESERVE_CASE_REPLACE" value="false" />
+    <option name="WHOLE_WORDS_ONLY" value="false" />
+    <option name="COMMENTS_ONLY" value="false" />
+    <option name="STRING_LITERALS_ONLY" value="false" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="false" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="false" />
+    <option name="WITH_SUBDIRECTORIES" value="true" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" />
+    <option name="RECENT_FIND_STRINGS">
+      <value>
+        <list size="30">
+          <item index="0" class="java.lang.String" itemvalue="hsf" />
+          <item index="1" class="java.lang.String" itemvalue="maven-dub" />
+          <item index="2" class="java.lang.String" itemvalue="port" />
+          <item index="3" class="java.lang.String" itemvalue="maven-dubbo" />
+          <item index="4" class="java.lang.String" itemvalue="ClassNameGenerator" />
+          <item index="5" class="java.lang.String" itemvalue="CLASS_NAME_GENERATOR_KEY" />
+          <item index="6" class="java.lang.String" itemvalue="$__DemoStub" />
+          <item index="7" class="java.lang.String" itemvalue="test" />
+          <item index="8" class="java.lang.String" itemvalue="antx2MavenConverter" />
+          <item index="9" class="java.lang.String" itemvalue="HSFBizProcessor" />
+          <item index="10" class="java.lang.String" itemvalue="-6" />
+          <item index="11" class="java.lang.String" itemvalue="hsf." />
+          <item index="12" class="java.lang.String" itemvalue="build" />
+          <item index="13" class="java.lang.String" itemvalue="write" />
+          <item index="14" class="java.lang.String" itemvalue="slf4j" />
+          <item index="15" class="java.lang.String" itemvalue="easy" />
+          <item index="16" class="java.lang.String" itemvalue="jmock" />
+          <item index="17" class="java.lang.String" itemvalue="dubbo-config" />
+          <item index="18" class="java.lang.String" itemvalue="dubbo-remoting" />
+          <item index="19" class="java.lang.String" itemvalue="slf4j_version" />
+          <item index="20" class="java.lang.String" itemvalue="maven-deploy" />
+          <item index="21" class="java.lang.String" itemvalue="hsf.log" />
+          <item index="22" class="java.lang.String" itemvalue="array" />
+          <item index="23" class="java.lang.String" itemvalue="spring" />
+          <item index="24" class="java.lang.String" itemvalue="spring_version" />
+          <item index="25" class="java.lang.String" itemvalue="Superclass has no" />
+          <item index="26" class="java.lang.String" itemvalue="generateClass" />
+          <item index="27" class="java.lang.String" itemvalue="Superclass has no null constructors but no arguments were given" />
+          <item index="28" class="java.lang.String" itemvalue="cglib" />
+          <item index="29" class="java.lang.String" itemvalue="napoli" />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_REPLACE_STRINGS">
+      <value>
+        <list size="8">
+          <item index="0" class="java.lang.String" itemvalue="protected" />
+          <item index="1" class="java.lang.String" itemvalue="version" />
+          <item index="2" class="java.lang.String" itemvalue="2.2.1" />
+          <item index="3" class="java.lang.String" itemvalue="lineSeparator" />
+          <item index="4" class="java.lang.String" itemvalue="dubbo.version" />
+          <item index="5" class="java.lang.String" itemvalue="META-INF/dubbo/internal" />
+          <item index="6" class="java.lang.String" itemvalue="Exception" />
+          <item index="7" class="java.lang.String" itemvalue="Demo" />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_DIR_STRINGS">
+      <value>
+        <list size="14">
+          <item index="0" class="java.lang.String" itemvalue="$USER_HOME$/source/apache/maven/archetype/trunk/maven-archetype-plugin/src/main/java/org/apache/maven/archetype/mojos" />
+          <item index="1" class="java.lang.String" itemvalue="$USER_HOME$/source/maven-2.2.1/maven-artifact/src/main/java/org/apache/maven/artifact/resolver" />
+          <item index="2" class="java.lang.String" itemvalue="$USER_HOME$/source/archiva-1.3.3-src/archiva-modules/archiva-scheduled/src/main/resources/META-INF/plexus" />
+          <item index="3" class="java.lang.String" itemvalue="$USER_HOME$/source/maven-2.2.1" />
+          <item index="4" class="java.lang.String" itemvalue="$USER_HOME$/work/maven/archiva/trunk/archiva-modules/archiva-web/archiva-webapp/src/main/resources" />
+          <item index="5" class="java.lang.String" itemvalue="$USER_HOME$/work/maven/archiva/trunk/archiva-modules/archiva-web/archiva-security/src/main/java/org/apache/maven/archiva/security" />
+          <item index="6" class="java.lang.String" itemvalue="$USER_HOME$/work/maven/archiva/trunk/archiva-modules/archiva-web/archiva-webapp/src/main/webapp/WEB-INF/jsp/decorators" />
+          <item index="7" class="java.lang.String" itemvalue="$USER_HOME$/source/apache/geronimo/xbean/xbean-spring-3.7" />
+          <item index="8" class="java.lang.String" itemvalue="$USER_HOME$/source/apache/maven/maven-3/tags/maven-3.0.3/maven-core/src/main/java/org/apache/maven/lifecycle/internal" />
+          <item index="9" class="java.lang.String" itemvalue="$USER_HOME$/source/maven-2.2.1/maven-artifact/src/main/java/org/apache/maven/artifact" />
+          <item index="10" class="java.lang.String" itemvalue="$USER_HOME$/work/open/dubbo/dubbo-common" />
+          <item index="11" class="java.lang.String" itemvalue="$USER_HOME$/work/open/dubbo" />
+          <item index="12" class="java.lang.String" itemvalue="$USER_HOME$/work/platform/dubbo-fix/dubbo-open/dubbo-common/src/main/java/com/alibaba/dubbo/common/utils" />
+          <item index="13" class="java.lang.String" itemvalue="$USER_HOME$/work/platform/dubbo-trunk" />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_FILE_MASKS">
+      <value>
+        <list size="13">
+          <item index="0" class="java.lang.String" itemvalue="*.html" />
+          <item index="1" class="java.lang.String" itemvalue="*.jsp" />
+          <item index="2" class="java.lang.String" itemvalue="*.php" />
+          <item index="3" class="java.lang.String" itemvalue="*.js" />
+          <item index="4" class="java.lang.String" itemvalue="*.as" />
+          <item index="5" class="java.lang.String" itemvalue="*.css" />
+          <item index="6" class="java.lang.String" itemvalue="*.mxml" />
+          <item index="7" class="java.lang.String" itemvalue="components.xml" />
+          <item index="8" class="java.lang.String" itemvalue="struts.xml" />
+          <item index="9" class="java.lang.String" itemvalue="*.xml" />
+          <item index="10" class="java.lang.String" itemvalue="*.properties" />
+          <item index="11" class="java.lang.String" itemvalue="pom.xml" />
+          <item index="12" class="java.lang.String" itemvalue="*.java" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="GlobalAntConfiguration">
+    <filtersTableLayout />
+    <propertiesTableLayout />
+    <registeredAnts />
+  </component>
+  <component name="HttpConfigurable">
+    <option name="plainProxyPassword" value="" />
+    <option name="USE_HTTP_PROXY" value="false" />
+    <option name="PROXY_HOST" value="" />
+    <option name="PROXY_PORT" value="80" />
+    <option name="PROXY_AUTHENTICATION" value="false" />
+    <option name="PROXY_LOGIN" value="" />
+    <option name="PROXY_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_PROXY_PASSWORD" value="false" />
+  </component>
+  <component name="PluginManagerConfigurable" proportions="" version="1">
+    <option name="AVAILABLE_SORT_COLUMN" value="0" />
+    <option name="INSTALLED_SORT_COLUMN" value="1" />
+    <option name="CART_SORT_COLUMN" value="0" />
+    <option name="AVAILABLE_SORT_COLUMN_ORDER" value="1" />
+    <option name="INSTALLED_SORT_COLUMN_ORDER" value="1" />
+    <option name="CART_SORT_COLUMN_ORDER" value="1" />
+    <available>
+      <option name="myProportion" value="15:70:15:15" />
+    </available>
+    <installed>
+      <option name="myProportion" />
+    </installed>
+  </component>
+  <component name="PropertiesSeparatorManager">
+    <file url="resourceBundle:file:///home/kimi/work/platform/console/grails-app/i18n/messages" separator="\u002e" />
+  </component>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/sources/github/dubbo/dubbo-parent.ipr" />
+        <option value="$USER_HOME$/work/dubbo-2.1.8/dubbo-parent.ipr" />
+        <option value="$USER_HOME$/work/platform/dubbo-trunk/dubbo.parent.ipr" />
+        <option value="$USER_HOME$/sources/apache/maven-2.2.1/maven.ipr" />
+        <option value="$USER_HOME$/work/platform/hsf-trunk/hsf-all.ipr" />
+        <option value="$USER_HOME$/work/experiment/dubbo-rpc-hsf/dubbo-rpc-hsf.ipr" />
+        <option value="$USER_HOME$/sources/github/plexus-classworlds/plexus-classworlds.ipr" />
+        <option value="$USER_HOME$/linux/thrift-0.7.0/lib/java/libthrift.ipr" />
+        <option value="$USER_HOME$/work/maven/plugins/pampas-enforcer-rules/cac-list-rule/pampas.rules.caclist.ipr" />
+        <option value="$USER_HOME$/work/platform/maven-dubbo-plugin/maven-dubbo-plugin.ipr" />
+        <option value="$USER_HOME$/work/maven/plugins/maven-wagon-plugin/trunk/maven-wagon-plugin.ipr" />
+        <option value="$USER_HOME$/work/maven/antx-to-maven/sandbox/a2m-parent.ipr" />
+        <option value="$USER_HOME$/tmp/hsfunit-1.0/hsfunit.ipr" />
+        <option value="$USER_HOME$/tmp/hsfunit/hsfunit.ipr" />
+        <option value="$USER_HOME$/work/taobao/hsf_1_4_8_7/hsf-all.ipr" />
+        <option value="$USER_HOME$/work/platform/sofa/sofa.parent.ipr" />
+        <option value="$USER_HOME$/sources/apache/maven-plugin-tools-2.9/maven-plugin-tools.ipr" />
+        <option value="$USER_HOME$/work/platform/dubbo-2.2.0/dubbo-parent.ipr" />
+        <option value="$USER_HOME$/work/platform/dubbo-2.2.0-codec/dubbo-parent.ipr" />
+        <option value="$USER_HOME$/work/platform/dubbo-trunk/dubbo-open/maven-dubbo-plugin/maven-dubbo-plugin.ipr" />
+        <option value="$USER_HOME$/sources/apache/maven-3.0.3/maven.ipr" />
+        <option value="$USER_HOME$/work/platform/dubbo-2.2.0-r-codec/dubbo.parent.ipr" />
+        <option value="$USER_HOME$/sources/github/netty/netty.ipr" />
+        <option value="$USER_HOME$/work/platform/dubbo-qatest/integration/dubbo.test.ipr" />
+        <option value="$USER_HOME$/sources/google/nfs-rpc/nfs-rpc.ipr" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/sources/github/dubbo/dubbo-parent.ipr" />
+      </list>
+    </option>
+    <option name="names">
+      <map>
+        <entry key="$USER_HOME$/linux/thrift-0.7.0/lib/java/libthrift.ipr" value="" />
+        <entry key="$USER_HOME$/sources/apache/maven-2.2.1/maven.ipr" value="" />
+        <entry key="$USER_HOME$/sources/apache/maven-3.0.3/maven.ipr" value="" />
+        <entry key="$USER_HOME$/sources/apache/maven-plugin-tools-2.9/maven-plugin-tools.ipr" value="" />
+        <entry key="$USER_HOME$/sources/github/dubbo/dubbo-parent.ipr" value="" />
+        <entry key="$USER_HOME$/sources/github/netty/netty.ipr" value="" />
+        <entry key="$USER_HOME$/sources/github/plexus-classworlds/plexus-classworlds.ipr" value="" />
+        <entry key="$USER_HOME$/sources/google/nfs-rpc/nfs-rpc.ipr" value="" />
+        <entry key="$USER_HOME$/tmp/hsfunit-1.0/hsfunit.ipr" value="" />
+        <entry key="$USER_HOME$/tmp/hsfunit/hsfunit.ipr" value="" />
+        <entry key="$USER_HOME$/work/experiment/dubbo-rpc-hsf/dubbo-rpc-hsf.ipr" value="" />
+        <entry key="$USER_HOME$/work/maven/antx-to-maven/sandbox/a2m-parent.ipr" value="" />
+        <entry key="$USER_HOME$/work/maven/plugins/maven-wagon-plugin/trunk/maven-wagon-plugin.ipr" value="" />
+        <entry key="$USER_HOME$/work/maven/plugins/pampas-enforcer-rules/cac-list-rule/pampas.rules.caclist.ipr" value="" />
+        <entry key="$USER_HOME$/work/platform/dubbo-2.2.0-codec/dubbo-parent.ipr" value="" />
+        <entry key="$USER_HOME$/work/platform/dubbo-2.2.0-r-codec/dubbo.parent.ipr" value="" />
+        <entry key="$USER_HOME$/work/platform/dubbo-2.2.0/dubbo-parent.ipr" value="" />
+        <entry key="$USER_HOME$/work/platform/dubbo-qatest/integration/dubbo.test.ipr" value="" />
+        <entry key="$USER_HOME$/work/platform/dubbo-trunk/dubbo-open/maven-dubbo-plugin/maven-dubbo-plugin.ipr" value="" />
+        <entry key="$USER_HOME$/work/platform/dubbo-trunk/dubbo.parent.ipr" value="" />
+        <entry key="$USER_HOME$/work/platform/hsf-trunk/hsf-all.ipr" value="" />
+        <entry key="$USER_HOME$/work/platform/maven-dubbo-plugin/maven-dubbo-plugin.ipr" value="" />
+        <entry key="$USER_HOME$/work/platform/sofa/sofa.parent.ipr" value="" />
+        <entry key="$USER_HOME$/work/taobao/hsf_1_4_8_7/hsf-all.ipr" value="" />
+      </map>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/sources/github/dubbo/dubbo-parent.ipr" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+  <component name="Registry">
+    <entry key="ide.firstStartup" value="false" />
+  </component>
+  <component name="Struts Assistant">
+    <option name="autoscrollToSource" value="false" />
+    <option name="autoscrollFromSource" value="false" />
+  </component>
+  <component name="TemplateSettings">
+    <defaultShortcut shortcut="TAB" />
+    <deleted_templates>
+      <template name="tldTag" group="jsf" />
+      <template name="tldFunction" group="jsf" />
+      <template name="sb" group="spring" />
+      <template name="sbf" group="spring" />
+      <template name="sbfb" group="spring" />
+      <template name="aopautoproxycreator" group="aop" />
+      <template name="aopautoproxy" group="aop" />
+      <template name="hibernatefactory" group="spring" />
+      <template name="datasource" group="spring" />
+      <template name="hibernatetm" group="spring" />
+      <template name="transactionmanager" group="spring" />
+      <template name="jndids" group="spring" />
+      <template name="jdopmf" group="spring" />
+      <template name="jdopmfproxy" group="spring" />
+      <template name="jdotm" group="spring" />
+      <template name="jpoxpmf" group="spring" />
+      <template name="toplinklsf" group="spring" />
+      <template name="toplinktasa" group="spring" />
+      <template name="toplinktm" group="spring" />
+      <template name="ibatisfactory" group="spring" />
+      <template name="jpaemfb" group="spring" />
+      <template name="jpacemf" group="spring" />
+      <template name="jpapum" group="spring" />
+      <template name="jpapabpp" group="spring" />
+      <template name="jpapetpp" group="spring" />
+      <template name="jpatm" group="spring" />
+      <template name="intscheduler" group="spring" />
+      <template name="crontrigger" group="spring" />
+      <template name="scedulerfactorybean" group="spring" />
+      <template name="simpletrigger" group="spring" />
+      <template name="jdkscheduledtimertask" group="spring" />
+      <template name="jdktimerfactorybean" group="spring" />
+      <template name="ejblssb" group="spring" />
+      <template name="ejbrssb" group="spring" />
+      <template name="freemarker" group="spring" />
+      <template name="placeholder" group="spring" />
+      <template name="propertyoverrideconfigurer" group="spring" />
+      <template name="resourcefb" group="spring" />
+      <template name="commonslogfb" group="spring" />
+      <template name="fieldretrfactory" group="spring" />
+      <template name="listfactory" group="spring" />
+      <template name="mapfactory" group="spring" />
+      <template name="proprsfactory" group="spring" />
+      <template name="setfactory" group="spring" />
+      <template name="webflowregistry" group="spring webflow" />
+      <template name="webflowexecutor" group="spring webflow" />
+      <template name="webflowbuildersevices" group="spring webflow" />
+      <template name="conversationservice" group="spring webflow" />
+      <template name="expressionparser" group="spring webflow" />
+      <template name="factorycreator" group="spring webflow" />
+      <template name="formatterregistry" group="spring webflow" />
+      <template name="webflowexelistener" group="spring webflow" />
+      <template name="osgisimpleservice" group="Spring Dynamic Modules" />
+      <template name="osgimultiservice" group="Spring Dynamic Modules" />
+      <template name="osgisimpleref" group="Spring Dynamic Modules" />
+      <template name="osgimultiref" group="Spring Dynamic Modules" />
+      <template name="osgibeannameref" group="Spring Dynamic Modules" />
+      <template name="osgirefwithlistener" group="Spring Dynamic Modules" />
+      <template name="osgisimplelist" group="Spring Dynamic Modules" />
+      <template name="osgisimpleset" group="Spring Dynamic Modules" />
+      <template name="osgilistwithcomp" group="Spring Dynamic Modules" />
+      <template name="osgisetwithcomparator" group="Spring Dynamic Modules" />
+    </deleted_templates>
+  </component>
+  <component name="TodoConfiguration">
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="ff" />
+      <option name="BACKGROUND" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="EFFECT_COLOR" />
+      <option name="EFFECT_TYPE" value="0" />
+      <option name="ERROR_STRIPE_COLOR" value="ff" />
+    </pattern>
+  </component>
+  <component name="UpdatesConfigurable">
+    <option name="myPluginHosts">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="myKnownUpdateChannels">
+      <value>
+        <list size="6">
+          <item index="0" class="java.lang.String" itemvalue="idea90" />
+          <item index="1" class="java.lang.String" itemvalue="IDEA10EAP" />
+          <item index="2" class="java.lang.String" itemvalue="IDEA10" />
+          <item index="3" class="java.lang.String" itemvalue="IDEA11" />
+          <item index="4" class="java.lang.String" itemvalue="IDEA11EAP" />
+          <item index="5" class="java.lang.String" itemvalue="IDEA11dot1EAP" />
+        </list>
+      </value>
+    </option>
+    <option name="myIgnoredBuildNumbers">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="CHECK_NEEDED" value="false" />
+    <option name="LAST_TIME_CHECKED" value="1334725009576" />
+    <option name="UPDATE_CHANNEL_TYPE" value="release" />
+  </component>
+  <component name="UsageViewSettings">
+    <option name="GROUP_BY_SCOPE" value="true" />
+  </component>
+  <component name="WebServicesPluginSettings" WebServicesUrlPathPrefix="/services" PathToXmlBeans="/opt/cache/IntelliJIdea90/system/webservices/xmlbeans-2.3.0" RestClientHost="http://localhost:9998" ASK_TO_INSTALL_SOAPUI="true">
+    <Libs>
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/xmlbeans-2.3.0/xmlpublic.jar.pack.gz" size="89723" />
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/xmlbeans-2.3.0/resolver.jar.pack.gz" size="21195" />
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/xmlbeans-2.3.0/xbean.jar.pack.gz" size="639476" />
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/xmlbeans-2.3.0/xmlbeans-qname.jar.pack.gz" size="1173" />
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/wadlgen/wadlgen.jar.pack.gz" size="3726" />
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/docs/axis1_4/documentation.jar.pack.gz" size="615245" />
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/xmlbeans-2.3.0/xbean_xpath.jar.pack.gz" size="2430" />
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/xmlbeans-2.3.0/jsr173_1.0_api.jar.pack.gz" size="5348" />
+    </Libs>
+  </component>
+  <component name="XDebuggerSettings">
+    <data-views />
+    <debuggers>
+      <debugger id="groovy_debugger">
+        <configuration />
+      </debugger>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="scala_debugger">
+        <configuration />
+      </debugger>
+    </debuggers>
+  </component>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="SHOW_IN_TOOLBAR" value="true" />
+    <option name="SHOW_IN_MAIN_MENU" value="true" />
+    <option name="OPEN_NEW_TAB" value="false" />
+    <option name="HIGHLIGHT_RESULTS" value="true" />
+    <option name="SHOW_USAGE_VIEW" value="false" />
+    <option name="SEARCH_SCOPE">
+      <value type="PROJECT" />
+    </option>
+    <option name="MATCH_RECURSIVELY" value="false" />
+    <option name="attributes">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" value="ffd578" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="-1" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="contextAttributes">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" value="c2ffd4" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="-1" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="scrollToFirst" value="true" />
+    <option name="bUseContextAtCursor" value="true" />
+    <option name="bHighlightStartTagOnly" value="true" />
+    <option name="bAddErrorStripe" value="true" />
+  </component>
+  <component name="XSLT-Support.Configuration">
+    <option name="SHOW_LINKED_FILES" value="true" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+    <default_templates />
+    <internal_templates />
+    <includes_templates />
+    <code_templates />
+    <j2ee_templates />
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+    <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl">
+    <enableFiles value="false" />
+    <enableFolders value="false" />
+    <filesTool value="" newValue="" />
+    <foldersTool value="" newValue="" />
+  </component>
+  <component name="mvcRunTargetHistory">
+    <option value="#" />
+  </component>
+</application>
+

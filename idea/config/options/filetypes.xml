@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="CommunityFileTypes" version="8">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;" />
+    <extensionMap>
+      <mapping ext="jspx" type="XML" />
+      <mapping ext="pom" type="XML" />
+      <mapping ext="rng" type="XML" />
+      <mapping ext="tagx" type="XML" />
+    </extensionMap>
+  </component>
+  <component name="FileTypeManager" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;.sbas;.IJI.*;vssver.scc;vssver2.scc;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping pattern="apachectl" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="agent" type="PLAIN_TEXT" />
+      <mapping pattern="PATCHES" type="PLAIN_TEXT" />
+      <mapping pattern="startws" type="PLAIN_TEXT" />
+      <mapping pattern="DemoNonblockingMain" type="PLAIN_TEXT" />
+      <mapping pattern="start_simple_server" type="PLAIN_TEXT" />
+      <mapping pattern="start_client" type="PLAIN_TEXT" />
+      <mapping pattern="NOTICE" type="PLAIN_TEXT" />
+      <mapping pattern="start_thread_pool_server" type="PLAIN_TEXT" />
+      <mapping pattern="killws" type="PLAIN_TEXT" />
+      <mapping pattern="idl2cpp" type="PLAIN_TEXT" />
+      <mapping pattern="DEPENDENCIES" type="PLAIN_TEXT" />
+      <mapping pattern="jbossctl" type="PLAIN_TEXT" />
+      <mapping pattern="debug" type="PLAIN_TEXT" />
+      <mapping pattern="start_echo_person" type="PLAIN_TEXT" />
+      <mapping pattern="unixBinTemplate" type="PLAIN_TEXT" />
+      <mapping pattern="minasctl" type="PLAIN_TEXT" />
+      <mapping pattern="antxconfig" type="PLAIN_TEXT" />
+      <mapping ext="filter" type="PLAIN_TEXT" />
+      <mapping ext="codec" type="PLAIN_TEXT" />
+      <mapping ext="classnamegenerator" type="PLAIN_TEXT" />
+      <mapping ext="resultmerger" type="PLAIN_TEXT" />
+      <mapping ext="exporterlistener" type="PLAIN_TEXT" />
+      <mapping ext="channelhandlerwrapper" type="PLAIN_TEXT" />
+      <mapping ext="proxyfactory" type="PLAIN_TEXT" />
+      <mapping ext="statuschecker" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="rmiproxyfactory" type="PLAIN_TEXT" />
+      <mapping ext="networker" type="PLAIN_TEXT" />
+      <mapping ext="invokerlistener" type="PLAIN_TEXT" />
+      <mapping ext="pagehandler" type="PLAIN_TEXT" />
+      <mapping ext="loadbalance" type="PLAIN_TEXT" />
+      <mapping ext="am" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="tooling" type="PLAIN_TEXT" />
+      <mapping ext="invokeserviceholder" type="PLAIN_TEXT" />
+      <mapping ext="protocol" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="cluster" type="PLAIN_TEXT" />
+      <mapping ext="apt" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="activateext1" type="PLAIN_TEXT" />
+      <mapping ext="schemas" type="PLAIN_TEXT" />
+      <mapping ext="2010-09-20" type="PLAIN_TEXT" />
+      <mapping ext="invokeservice" type="PLAIN_TEXT" />
+      <mapping ext="protocolsupport" type="PLAIN_TEXT" />
+      <mapping ext="routerfactory" type="PLAIN_TEXT" />
+      <mapping ext="cfl" type="PLAIN_TEXT" />
+      <mapping ext="framecodec" type="PLAIN_TEXT" />
+      <mapping ext="jj" type="PLAIN_TEXT" />
+      <mapping ext="flex" type="PLAIN_TEXT" />
+      <mapping ext="telnethandler" type="PLAIN_TEXT" />
+      <mapping ext="exchanger" type="PLAIN_TEXT" />
+      <mapping ext="thrift" type="PLAIN_TEXT" />
+      <mapping ext="handlers" type="PLAIN_TEXT" />
+      <mapping ext="registryfactory" type="PLAIN_TEXT" />
+      <mapping ext="vmd" type="VTL" />
+      <mapping ext="pom" type="XML" />
+      <mapping ext="jdo" type="XML" />
+      <mapping ext="jardesc" type="XML" />
+      <mapping ext="mdo" type="XML" />
+    </extensionMap>
+  </component>
+</application>
+
