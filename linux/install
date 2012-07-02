@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudo apt-get install vim subversion make gcc autoconf automake binutils openssh-client openssh-server samba tree git cscope chromium-browser quicksynergy rar unrar build-essential
+
+sudo apt-get purge xdg-user-dirs xdg-user-dirs-gtk

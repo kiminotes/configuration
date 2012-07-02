@@ -1,0 +1,9 @@
+syntax on
+set nobackup
+set expandtab
+set ai
+set shiftwidth=4
+set tabstop=4
+ab psvm public static void main(String[] args) {  }
+autocmd FileType make setlocal noexpandtab
+autocmd FileType automake setlocal noexpandtab
