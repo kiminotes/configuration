@@ -4,6 +4,11 @@ set expandtab
 set ai
 set shiftwidth=4
 set tabstop=4
-ab psvm public static void main(String[] args) {  }
+set cursorline
+set hlsearch
+set incsearch
+set showmode
+set ruler
+set showmatch
 autocmd FileType make setlocal noexpandtab
 autocmd FileType automake setlocal noexpandtab
