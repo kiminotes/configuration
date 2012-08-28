@@ -10,5 +10,7 @@ set incsearch
 set showmode
 set ruler
 set showmatch
+" highlight right margin
+set colorcolumn=80    
 autocmd FileType make setlocal noexpandtab
 autocmd FileType automake setlocal noexpandtab
