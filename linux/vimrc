@@ -4,13 +4,14 @@ set expandtab
 set ai
 set shiftwidth=4
 set tabstop=4
-set cursorline
+" set cursorline
 set hlsearch
 set incsearch
 set showmode
 set ruler
 set showmatch
 " highlight right margin
-set colorcolumn=80    
+" set colorcolumn=80    
+colorscheme desert
 autocmd FileType make setlocal noexpandtab
 autocmd FileType automake setlocal noexpandtab
