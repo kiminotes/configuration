@@ -1,4 +1,6 @@
 #!/bin/bash
 
-sudo yum install vim autoconf automake gcc gcc-c++ libtool subversion git wget lsb man-pages zlib-devel cmake
+# alacarte is main menu editor
+
+sudo yum install vim autoconf automake gcc gcc-c++ libtool subversion git wget lsb man-pages zlib-devel cmake alacarte
 
