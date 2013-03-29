@@ -17,3 +17,4 @@ autocmd FileType make setlocal noexpandtab
 autocmd FileType automake setlocal noexpandtab
 " set statusline=
 set laststatus=2
+set nu
