@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo yum remove xdg-user-dirs xdg-user-dirs-gt
+sudo yum remove xdg-user-dirs xdg-user-dirs-gt  libreoffice-calc libreoffice-writer libreoffice-core libreoffice-graphicfilter libreoffice-impress libreoffice-math libreoffice-opensymbol-fonts libreoffice-pdfimport libreoffice-presenter-screen libreoffice-ure libreoffice-xsltfilter javapackages-tools.noarch java-1.7.0-openjdk
