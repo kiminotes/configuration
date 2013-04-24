@@ -3,5 +3,5 @@
 # alacarte is main menu editor
 # pangox is for cisco AnyConnect
 
-sudo yum install vim autoconf automake gcc gcc-c++ libtool subversion git wget lsb man-pages zlib-devel cmake alacarte gettext-devel gettext libsysfs-devel libcap-devel pangox-compat pangox-compat-devel systemtap boost-devel ctags cscope
+sudo yum install vim autoconf automake gcc gcc-c++ libtool subversion git wget lsb man-pages zlib-devel cmake alacarte gettext-devel gettext libsysfs-devel libcap-devel pangox-compat pangox-compat-devel systemtap boost-devel ctags cscope wqy-bitmap-fonts wqy-zenhei-fonts wqy-unibit-fonts
 
